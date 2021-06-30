@@ -1,0 +1,75 @@
+[*]
+[*] GTKWave Analyzer v3.3.98 (w)1999-2019 BSI
+[*] Wed Jun 30 19:28:27 2021
+[*]
+[dumpfile] "/home/deppian/workspace/test/test.vcd"
+[dumpfile_mtime] "Wed Jun 30 19:15:18 2021"
+[dumpfile_size] 174638
+[savefile] "/home/deppian/workspace/test/gtkwaveSignals.gtkw"
+[timestart] 1
+[size] 1137 871
+[pos] 33 -1
+*0.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] TOP.
+[treeopen] TOP.top.
+[treeopen] TOP.top.i_axi_xbar.
+[treeopen] TOP.top.i_axi_xbar.axi_node_i.
+[treeopen] TOP.top.i_axi_xbar.axi_node_i._RESP_BLOCK_GEN(0).
+[treeopen] TOP.top.i_axi_xbar.axi_node_i._RESP_BLOCK_GEN(0).RESP_BLOCK.
+[treeopen] TOP.top.i_axi_xbar.axi_node_i._RESP_BLOCK_GEN(0).RESP_BLOCK.BR_ALLOC.
+[treeopen] TOP.top.i_axi_xbar.axi_node_i._RESP_BLOCK_GEN(0).RESP_BLOCK.BR_ALLOC.ARBITER.
+[treeopen] TOP.top.i_axi_xbar.axi_node_i._RESP_BLOCK_GEN(0).RESP_BLOCK.BR_ALLOC.ARBITER.i_arbiter.
+[treeopen] TOP.top.i_axi_xbar.axi_node_i._RESP_BLOCK_GEN(0).RESP_BLOCK.BR_ALLOC.ARBITER.i_arbiter.i_arb_inp.
+[treeopen] TOP.top.i_axi_xbar.axi_node_i._RESP_BLOCK_GEN(0).RESP_BLOCK.BR_ALLOC.ARBITER.i_arbiter.i_arb_inp.i_arb.
+[treeopen] TOP.top.i_axi_xbar.axi_node_i._RESP_BLOCK_GEN(0).RESP_BLOCK.BR_ALLOC.ARBITER.i_arbiter.i_arb_inp.i_arb.gen_rr_arb.
+[treeopen] TOP.top.i_axi_xbar.axi_node_i._RESP_BLOCK_GEN(0).RESP_BLOCK.BR_ALLOC.ARBITER.i_arbiter.i_arb_inp.i_arb.gen_rr_arb.i_arbiter.
+[treeopen] TOP.top.i_axi_xbar.axi_node_i._RESP_BLOCK_GEN(0).RESP_BLOCK.BR_ALLOC.ARBITER.i_arbiter.oup_meta.
+[sst_width] 469
+[signals_width] 263
+[sst_expanded] 1
+[sst_vpaned_height] 565
+@200
+-BR_ALLOC: i_arb_inp
+-inp_meta
+@22
+TOP.top.i_axi_xbar.axi_node_i._RESP_BLOCK_GEN(0).RESP_BLOCK.BR_ALLOC.ARBITER.i_arbiter.inp_meta(0).aux[67:0]
+TOP.top.i_axi_xbar.axi_node_i._RESP_BLOCK_GEN(0).RESP_BLOCK.BR_ALLOC.ARBITER.i_arbiter.inp_meta(1).aux[67:0]
+@200
+-oup_meta
+@22
+TOP.top.i_axi_xbar.axi_node_i._RESP_BLOCK_GEN(0).RESP_BLOCK.BR_ALLOC.ARBITER.i_arbiter.oup_meta.aux[67:0]
+@200
+-
+-BR_ALLOC: i_arb
+-inp_data
+@22
+TOP.top.i_axi_xbar.axi_node_i._RESP_BLOCK_GEN(0).RESP_BLOCK.BR_ALLOC.ARBITER.i_arbiter.i_arb_inp.inp_data_i(0).aux[67:0]
+TOP.top.i_axi_xbar.axi_node_i._RESP_BLOCK_GEN(0).RESP_BLOCK.BR_ALLOC.ARBITER.i_arbiter.i_arb_inp.inp_data_i(1).aux[67:0]
+@200
+-oup_data
+@22
+TOP.top.i_axi_xbar.axi_node_i._RESP_BLOCK_GEN(0).RESP_BLOCK.BR_ALLOC.ARBITER.i_arbiter.i_arb_inp.oup_data_o.aux[67:0]
+@200
+-
+-BR_ALLOC:  gen_rr_arb
+-inp_data
+@22
+TOP.top.i_axi_xbar.axi_node_i._RESP_BLOCK_GEN(0).RESP_BLOCK.BR_ALLOC.ARBITER.i_arbiter.i_arb_inp.i_arb.inp_data_i(0).aux[67:0]
+TOP.top.i_axi_xbar.axi_node_i._RESP_BLOCK_GEN(0).RESP_BLOCK.BR_ALLOC.ARBITER.i_arbiter.i_arb_inp.i_arb.inp_data_i(1).aux[67:0]
+@200
+-oup_data
+@22
+TOP.top.i_axi_xbar.axi_node_i._RESP_BLOCK_GEN(0).RESP_BLOCK.BR_ALLOC.ARBITER.i_arbiter.i_arb_inp.i_arb.oup_data_o.aux[67:0]
+@200
+-
+-BR_ALLOC: i_arbiter
+-data_i
+@22
+TOP.top.i_axi_xbar.axi_node_i._RESP_BLOCK_GEN(0).RESP_BLOCK.BR_ALLOC.ARBITER.i_arbiter.i_arb_inp.i_arb.gen_rr_arb.i_arbiter.data_i(0).aux[67:0]
+TOP.top.i_axi_xbar.axi_node_i._RESP_BLOCK_GEN(0).RESP_BLOCK.BR_ALLOC.ARBITER.i_arbiter.i_arb_inp.i_arb.gen_rr_arb.i_arbiter.data_i(1).aux[67:0]
+@200
+-data_o
+@23
+TOP.top.i_axi_xbar.axi_node_i._RESP_BLOCK_GEN(0).RESP_BLOCK.BR_ALLOC.ARBITER.i_arbiter.i_arb_inp.i_arb.gen_rr_arb.i_arbiter.data_o.aux[67:0]
+[pattern_trace] 1
+[pattern_trace] 0
